@@ -6,5 +6,3 @@ elif age < 18:
     print('$5 гони')
 else:
     print('$10 гони')
-
-
